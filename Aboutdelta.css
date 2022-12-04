@@ -1,0 +1,159 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: Cambria;
+}
+#header{
+  background-color:#f5f5f5;
+  display:flex;
+}
+
+#img1{
+  position:absolute;
+  left:80px;
+  top:30px;
+}
+#h51{
+  margin-left:800px;
+  margin-top:135px;
+}
+#h52{
+  margin-top:135px;
+  margin-left:40px;
+}
+#h53{
+  margin-top:135px;
+  margin-left:40px;
+}
+#btn1{
+  width:200px;
+  height:55px;
+  font-size:18px;
+  background-color:#00006b;
+  color:white;
+  margin-top:100px;
+  margin-left:40px;
+}
+#re{
+  color:white;
+}
+#bl{
+  background-color:#00006b;
+  color:white;
+  opacity:0.8;
+  width:300px;
+  height:300px;
+  position:absolute;
+  bottom:40px;
+  left:200px;
+}
+#w1{
+  position:absolute;
+  left:40px;
+}
+#w2{
+  position:absolute;
+  top:150px;
+  left:15px;
+}
+#bon{
+  position:absolute;
+  left:1300px;
+  bottom:600px;
+}
+#w3{
+  color:#00006b;
+  text-align:center;
+}
+#w4{
+  text-align:center;
+}
+#ab{
+  display:flex;
+}
+#ab2{
+  background-color:#e8e8e8;
+}
+#b1{
+  background-color:white;
+  margin-left:150px;
+  width:350px;
+}
+#b2{
+  background-color:white;
+  margin-left:100px;
+    width:350px;
+}
+#b3{
+  background-color:white;
+    margin-left:100px;
+  width:350px;
+}
+#img2,#img4{
+  margin-left:130px;
+}
+#img3{
+  margin-left:120px;
+}
+#w5,#w7{
+  margin-left:30px;
+}
+#w9{
+  margin-left:50px;
+}
+#w6,#w8,#w10{
+  margin-left:30px;
+}
+#ab3{
+  display:flex;
+  margin-top:30px;
+}
+#div2{
+  margin-top:100px;
+  margin-left:165px;
+}
+#img2{
+  margin-left:15px;
+}
+#bon{
+  position:absolute;
+  left:1300px;
+  bottom:600px;
+}
+#bo3{
+  display:flex;
+  margin-left:165px;
+  margin-top:15px;
+}
+#bo1{
+  background-color:#ededed;
+  width:560px;
+  height:300px;
+}
+#bo2{
+  background-color:#00006b;
+    width:560px;
+  height:300px;
+  margin-left:15px;
+}
+#wor3{
+  position:absolute;
+  bottom:300px;
+    top:1850px;
+  left:250px;
+  color:#00006b;
+}
+#wor4{
+  position:absolute;
+  top:1850px;
+  left:800px;
+  color:white;
+}
+#mb{
+  margin-top:20px;
+  margin-left:200px;
+}
+#mb1{
+  background-color:#1c1c1c;
+
+}

@@ -1,0 +1,179 @@
+
+#h11{
+  color:#00006b;
+  margin-left:50px;
+  margin-top:60px;
+}
+#img1{
+position:absolute;
+  left:900px;
+  top:70px;
+}
+#mb{
+  margin-top:20px;
+  margin-left:200px;
+}
+#c1{
+  position:absolute;
+  left:45px;
+  margin-top:15px;
+   width:300px;
+  height:30px;
+}
+#c7{
+    position:absolute;
+  left:45px;
+ margin-top:15px;
+}
+#c2{
+  position:absolute;
+  left:380px;
+   bottom:210px;
+   width:345px;
+  height:35px;
+}
+#c6{
+    position:absolute;
+  left:380px;
+ bottom:253px;
+}
+
+#c3{
+  position:absolute;
+  left:45px;
+   width:300px;
+  height:30px;
+    bottom:130px;
+}
+#c8{
+    position:absolute;
+  left:45px;
+  bottom:170px;
+}
+
+#c4{
+  position:absolute;
+  left:380px;
+  bottom:130px;
+  width:350px;
+  height:40px;
+}
+#c5{
+  position:absolute;
+  left:380px;
+  bottom:170px;
+}
+#btn1{
+  width:200px;
+  height:55px;
+  font-size:18px;
+  background-color:lightblue;
+  margin-top:130px;
+  margin-left:800px;
+    color:white;
+}
+#all{
+  margin-left:50px;
+  width:800px;
+  height:400px;
+  position:absolute;
+  bottom:150px;
+  left:270px;
+  z-index:100;
+  background-color:white;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: Cambria;
+}
+#header{
+  background-color:#f5f5f5;
+  display:flex;
+}
+
+#img1{
+  position:absolute;
+  left:80px;
+  top:30px;
+}
+#h51{
+  margin-left:800px;
+  margin-top:135px;
+}
+#h52{
+  margin-top:135px;
+  margin-left:40px;
+}
+#h53{
+  margin-top:135px;
+  margin-left:40px;
+}
+#btn1{
+  width:200px;
+  height:55px;
+  font-size:18px;
+  background-color:#00006b;
+  color:white;
+  margin-top:100px;
+  margin-left:40px;
+}
+#bl{
+  background-color:#00006b;
+  color:white;
+  opacity:0.8;
+  width:300px;
+  height:300px;
+  position:absolute;
+  bottom:40px;
+  left:200px;
+}
+#w1{
+  position:absolute;
+  left:40px;
+}
+#w2{
+  position:absolute;
+  top:150px;
+  left:15px;
+}
+#bon{
+  position:absolute;
+  left:1300px;
+  bottom:600px;
+}
+#opb{
+  background-color:black;
+  opacity:0.5;
+  width:1530px;
+  height:1000px;
+  position:absolute;
+  bottom:10px;
+}
+#log{
+  position:absolute;
+  left:690px;
+  bottom:280px;
+}
+#btn2{
+  width:350px;
+  height:55px;
+  font-size:18px;
+  background-color:#00006b;
+  margin-left:380px;
+  position:absolute;
+  bottom:40px;
+}
+#re{
+  color:white;
+}
+#c9{
+  position:absolute;
+  left:70px;
+  bottom:80px;
+}
+#c10{
+  position:absolute;
+  left:47px; 
+  bottom:80px;
+}
